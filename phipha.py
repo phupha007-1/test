@@ -7,3 +7,7 @@ print("You entered:", a)
 
 animal = ["cat", "dog", "rabbit", "hamster"]
 print(len(animal))
+
+student = {"name": "John",
+"age": 20}
+print(student["name"])
